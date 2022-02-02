@@ -1,0 +1,23 @@
+{
+  "name": "basic-math-api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfranke/Basic-Math-API-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfranke/Basic-Math-API-Node/issues"
+  },
+  "homepage": "https://github.com/zfranke/Basic-Math-API-Node#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
