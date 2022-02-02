@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/zfranke/Basic-Math-API-Node#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
   }
 }
